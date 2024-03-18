@@ -247,3 +247,11 @@ python client.py
 ```
 go run client.go
 ```
+# Unusual Fact : 
+Every time you run client code you will see random images of that particular keyword in this case you will see two random images for a particular keyword.
+
+# References :
+*  https://grpc.io/docs/what-is-grpc/introduction/ 
+* https://docs.docker.com/get-started/overview/
+* https://docs.docker.com/get-started/
+*  Andrew S. Tanenbaum and Maarten Van Steen, Distributed Systems: Principles and Paradigms (4th Edition)
